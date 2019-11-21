@@ -1,0 +1,14 @@
+html {
+    font-family: 'Calistoga', cursive;
+}
+
+.header {
+    display: block;
+}
+
+.container {
+    text-align: left;
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
